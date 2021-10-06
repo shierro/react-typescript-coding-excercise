@@ -1,17 +1,7 @@
-import './footer.css';
-
 function Footer() {
   return (
-    <section className="footer">
-      <navigation>
-        <div>Logo Here</div>
-        <ul>
-          <li>
-            Home
-          </li>
-        </ul>
-      </navigation>
-      <div>React Powertools</div>
+    <section className="footer p-8 bg-gray-50 border-t-2">
+      <div>Baked with Love</div>
     </section>
   );
 }

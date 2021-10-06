@@ -5,8 +5,8 @@ import Footer from './components/Footer';
 
 function Body() {
   return (
-    <main>
-      <h1>Company Name</h1>
+    <main className="bg-white">
+      <h1 className="text-lg py-8">Add Challenge Name Here</h1>
       <section></section>
     </main>
   )
@@ -14,7 +14,7 @@ function Body() {
 
 function App() {
   return (
-    <div className="App">
+    <div className="App min-h-screen justify-between flex flex-col bg-gray-100">
       <Header />
       <Body />
       <Footer />
