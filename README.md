@@ -5,7 +5,7 @@ A Hobby project to tune-up my typescript / React JS skills!
 ## Tech Stack (Goal)
 - React.js :white_check_mark: via CRA
 - Tailwind.css :white_check_mark:
-- Typescript :construction:
+- Typescript :white_check_mark:
 - react-router (Client side routing) :construction: 
 - Rematch (State & side-effects management) :construction:
 - EsLINT :construction:
