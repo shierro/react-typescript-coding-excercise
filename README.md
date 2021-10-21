@@ -7,7 +7,7 @@ A Hobby project to tune-up my typescript / React JS skills!
 - Tailwind.css :white_check_mark:
 - Typescript :white_check_mark:
 - react-router (Client side routing) :construction: 
-- Rematch (State & side-effects management) :construction:
+- Rematch (State & side-effects management) :construction: (or maybe not, to try and maximize react's latest features)
 - EsLINT :construction:
 - Prettier :construction:
 
