@@ -13,6 +13,13 @@ A Hobby project to tune-up my typescript / React JS skills!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Small to not-so-small achievements :tada:
+-  Set-up a react project with live/hot reload
+-  Integrate Tailwind.css
+-  Deploy LIVE to github pages (master branch, /docs folder)
+-  Set-up a responsive & simple layout (header, body, footer)
+-  Migrate from React.JS to React.TS
+
 ## Available Scripts
 
 In the project directory, you can run:
