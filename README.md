@@ -3,10 +3,11 @@
 A Hobby project to tune-up my typescript / React JS skills! 
 
 ## Tech Stack (Goal)
-- React.js
-- Typescript
-- Tailwind.css
-- react-router (To encapsulate 1 excercise per page)
+- React.js :white_check_mark: via CRA
+- Tailwind.css :white_check_mark:
+- Typescript :construction:
+- react-router (Client side routing) :construction: 
+- Rematch (State & side-effects management) :construction:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
