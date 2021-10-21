@@ -8,6 +8,8 @@ A Hobby project to tune-up my typescript / React JS skills!
 - Typescript :construction:
 - react-router (Client side routing) :construction: 
 - Rematch (State & side-effects management) :construction:
+- EsLINT :construction:
+- Prettier :construction:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
