@@ -5,23 +5,14 @@ import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
-import { Action, AppState, RootContextType } from '../../types';
+import { AppState, RootContextType } from '../../types';
+import reducer from './reducer';
 
 const initialState: AppState = {
   darkMode: true,
 };
 
 export const RootContext = React.createContext({} as RootContextType);
-
-function reducer(state: AppState, action: Action) {
-  switch (action.type) {
-    case 'TOGGLE_THEME':
-      document.documentElement.classList[state.darkMode ? 'remove' : 'add']('dark');
-      return { ...state, darkMode: !state.darkMode };
-    default:
-      throw new Error();
-  }
-}
 
 function Body() {
   return (
