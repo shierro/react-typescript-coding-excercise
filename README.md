@@ -6,19 +6,21 @@ A Hobby project to tune-up my typescript / React JS skills!
 - React.js :white_check_mark: via CRA
 - Tailwind.css :white_check_mark:
 - Typescript :white_check_mark:
+- EsLINT :white_check_mark:
+- Prettier :construction:
 - react-router (Client side routing) :construction: 
 - Rematch (State & side-effects management) :construction: (or maybe not, to try and maximize react's latest features)
-- EsLINT :construction:
-- Prettier :construction:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Small to not-so-small achievements :tada:
--  Set-up a react project with live/hot reload
--  Integrate Tailwind.css
--  Deploy LIVE to github pages (master branch, /docs folder)
--  Set-up a responsive & simple layout (header, body, footer)
--  Migrate from React.JS to React.TS
+## Micro achievements :tada:
+-  :tada: Set-up a react project with live/hot reload
+-  :hammer: Integrate Tailwind.css
+-  :rocket: Deploy LIVE to github pages (master branch, /docs folder)
+-  :lipstick: Set-up a responsive & simple layout (header, body, footer)
+-  :hammer: Migrate from React.JS to React.TS
+-  :sparkles: Dark mode support
+-  :sparkles: ESLINT support
 
 ## Available Scripts
 

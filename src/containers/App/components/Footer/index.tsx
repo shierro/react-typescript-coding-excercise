@@ -1,16 +1,18 @@
-const Container: React.FC = (props) => (
-  <section 
+import React from 'react';
+
+const Container: React.FC = ({ children }) => (
+  <section
     className="
-      footer 
-      p-8 
-      bg-gray-50 
-      border-t-2 
+      footer
+      p-8
+      bg-gray-50
+      border-t-2
       dark:bg-gray-700
       dark:text-white"
   >
-    {props.children}
+    {children}
   </section>
-)
+);
 
 function Footer() {
   return (

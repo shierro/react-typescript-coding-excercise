@@ -6,7 +6,7 @@ export type ACTION_TYPES = 'TOGGLE_THEME';
 
 export type Action = {
   type: ACTION_TYPES;
-  payload?: any;
+  payload?: unknown;
 }
 
 export type RootContextType = {

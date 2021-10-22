@@ -1,0 +1,6 @@
+coverage
+docs
+node_modules
+craco.config.js
+*.css
+*.svg

@@ -8,7 +8,7 @@ test('renders the basic structure', () => {
   const darkModeSwitchEl = screen.getByTestId('darkModeSwitch');
   const titleEl = screen.getByText(TITLE);
   const footerText = screen.getByText(FOOTER_TEXT);
-  
+
   expect(bodyElement).toBeInTheDocument();
   expect(darkModeSwitchEl).toBeInTheDocument();
   expect(titleEl).toBeInTheDocument();
