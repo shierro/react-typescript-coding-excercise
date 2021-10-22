@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-typescript-coding-excercise/static/css/main.00ae7386.chunk.css",
-    "main.js": "/react-typescript-coding-excercise/static/js/main.1a6a91e4.chunk.js",
-    "main.js.map": "/react-typescript-coding-excercise/static/js/main.1a6a91e4.chunk.js.map",
+    "main.css": "/react-typescript-coding-excercise/static/css/main.d0cc441d.chunk.css",
+    "main.js": "/react-typescript-coding-excercise/static/js/main.74d172d4.chunk.js",
+    "main.js.map": "/react-typescript-coding-excercise/static/js/main.74d172d4.chunk.js.map",
     "runtime-main.js": "/react-typescript-coding-excercise/static/js/runtime-main.16b3b494.js",
     "runtime-main.js.map": "/react-typescript-coding-excercise/static/js/runtime-main.16b3b494.js.map",
-    "static/js/2.4185a4e2.chunk.js": "/react-typescript-coding-excercise/static/js/2.4185a4e2.chunk.js",
-    "static/js/2.4185a4e2.chunk.js.map": "/react-typescript-coding-excercise/static/js/2.4185a4e2.chunk.js.map",
+    "static/js/2.66f98c56.chunk.js": "/react-typescript-coding-excercise/static/js/2.66f98c56.chunk.js",
+    "static/js/2.66f98c56.chunk.js.map": "/react-typescript-coding-excercise/static/js/2.66f98c56.chunk.js.map",
     "static/js/3.b49a74dd.chunk.js": "/react-typescript-coding-excercise/static/js/3.b49a74dd.chunk.js",
     "static/js/3.b49a74dd.chunk.js.map": "/react-typescript-coding-excercise/static/js/3.b49a74dd.chunk.js.map",
     "index.html": "/react-typescript-coding-excercise/index.html",
-    "static/css/main.00ae7386.chunk.css.map": "/react-typescript-coding-excercise/static/css/main.00ae7386.chunk.css.map",
-    "static/js/2.4185a4e2.chunk.js.LICENSE.txt": "/react-typescript-coding-excercise/static/js/2.4185a4e2.chunk.js.LICENSE.txt",
+    "static/css/main.d0cc441d.chunk.css.map": "/react-typescript-coding-excercise/static/css/main.d0cc441d.chunk.css.map",
+    "static/js/2.66f98c56.chunk.js.LICENSE.txt": "/react-typescript-coding-excercise/static/js/2.66f98c56.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-typescript-coding-excercise/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.16b3b494.js",
-    "static/js/2.4185a4e2.chunk.js",
-    "static/css/main.00ae7386.chunk.css",
-    "static/js/main.1a6a91e4.chunk.js"
+    "static/js/2.66f98c56.chunk.js",
+    "static/css/main.d0cc441d.chunk.css",
+    "static/js/main.74d172d4.chunk.js"
   ]
 }

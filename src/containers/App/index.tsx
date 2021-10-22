@@ -2,13 +2,13 @@ import React from 'react';
 
 import './App.css';
 
-import Header from './Header';
-import Footer from './Footer';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 import { Action, AppState, RootContextType } from '../../types';
 
 const initialState: AppState = {
-  darkMode: false,
+  darkMode: true,
 }
 
 export const RootContext = React.createContext({} as RootContextType);
@@ -25,12 +25,27 @@ function reducer(state: AppState, action: Action) {
 
 function Body() {
   return (
-    <main className="bg-white">
-      <h1 className="text-lg py-8">Add Challenge Name Here</h1>
+    <main className="bg-white dark:bg-gray-400">
+      <h1 className="text-lg py-8 dark:text-white">Add Challenge Name Here</h1>
       <section></section>
     </main>
   )
 }
+
+const Container: React.FC = (props) => (
+  <div 
+    className="
+      App 
+      min-h-screen 
+      justify-between 
+      flex 
+      flex-col 
+      bg-gray-100
+      dark:bg-gray-500"
+  >
+    {props.children}
+  </div>
+)
 
 function App() {
   const [rootState, rootDispatch] = React.useReducer(reducer, initialState);
@@ -40,11 +55,11 @@ function App() {
   }
   return (
     <RootContext.Provider value={initialValue}>
-      <div className="App min-h-screen justify-between flex flex-col bg-gray-100">
+      <Container>
         <Header />
         <Body />
         <Footer />
-      </div>
+      </Container>
     </RootContext.Provider>
   );
 }
