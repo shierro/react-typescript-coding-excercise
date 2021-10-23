@@ -7,9 +7,9 @@ A Hobby project to tune-up my typescript / React JS skills!
 - Tailwind.css :white_check_mark:
 - Typescript :white_check_mark:
 - EsLINT :white_check_mark:
-- Prettier :construction:
-- react-router (Client side routing) :construction: 
+- react-router (Client side routing) :white_check_mark:
 - Rematch (State & side-effects management) :construction: (or maybe not, to try and maximize react's latest features)
+- Prettier :construction:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -21,6 +21,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -  :hammer: Migrate from React.JS to React.TS
 -  :sparkles: Dark mode support
 -  :sparkles: ESLINT support
+-  :sparkles: Add Basic routing
+-  :construction: UI of table Sort exercise
 
 ## Available Scripts
 

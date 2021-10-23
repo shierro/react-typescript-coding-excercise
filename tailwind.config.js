@@ -9,7 +9,10 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      backgroundColor: ['even', 'odd'],
+      borderCollapse: ['hover', 'focus'],
+    },
   },
   plugins: [],
 };
